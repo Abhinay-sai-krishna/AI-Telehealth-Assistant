@@ -1,0 +1,7 @@
+{
+  "name": "Integrated Telehealth Assistant",
+  "description": "An AI-powered telehealth assistant for early detection of skin conditions, mental health screening, and symptom tracking, leveraging Gemini for analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
